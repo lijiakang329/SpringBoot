@@ -5,7 +5,7 @@ SpringBoot从零开始，该教程以最简单的Hello World开始，循序渐�
 
 欢迎关注微信公众号：
 
-![qrcode_for_gh_86a2bb60eeb8_344](/Users/lijiakang/Pictures/qrcode_for_gh_86a2bb60eeb8_344.jpg)
+![qrcode_for_gh_86a2bb60eeb8_344](https://github.com/lijiakang329/SpringBoot/blob/master/1.Hello%20Spring%20Boot/main/resources/static/qrcode_for_gh_86a2bb60eeb8_344.jpg)
 
 ------
 
