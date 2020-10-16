@@ -10,7 +10,7 @@ SpringBoot从零开始，该教程以最简单的Hello World开始，循序渐�
 
 2. [Spring Boot官方文档](https://docs.spring.io/spring-boot/docs/2.3.3.RELEASE/reference/htmlsingle/)
 
-3. [百度](https://www,baidu.com)
+3. [百度](www.baidu.com)
 
 ------
 
