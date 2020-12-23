@@ -17,4 +17,4 @@ SpringBoot从零开始，该教程以最简单的Hello World开始，循序渐�
 #### 示例代码：
 
 [Hello World只是开胃小菜](https://github.com/lijiakang329/SpringBoot/tree/master/1.Hello%20Spring%20Boot/main/java/com/example/demo/controller)
-
+[SpringApplication的初始化](http://www.myprogramnobug.com/2020/12/21/SpringBoot源码-SpringApplication初始化过程/)
